@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/pg-promise": "^5.4.3"
+  }
+}
