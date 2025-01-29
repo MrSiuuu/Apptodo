@@ -2,11 +2,6 @@ node_modules/
 dist/
 .env
 
-DB_HOST=localhost
-DB_PORT=6000
-DB_USER=postgres
-DB_PASSWORD=Issakouyate2001@
-DB_NAME=todo
 
 # Ignorer les fichiers .env
 backend/src/.env
